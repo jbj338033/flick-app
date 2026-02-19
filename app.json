@@ -1,5 +1,8 @@
 {
   "expo": {
+    "router": {
+      "root": "src"
+    },
     "name": "flick",
     "slug": "flick",
     "version": "1.0.0",
