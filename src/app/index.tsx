@@ -1,4 +1,5 @@
-import { Text, View } from "react-native";
+import { Text } from "@/shared/ui";
+import { View } from "react-native";
 
 export default function Index() {
   return (
